@@ -21,12 +21,12 @@
     max-width: 100%;
     padding: 0 auto;
     padding: 1em;
-  line-height: 1.5;
+    line-height: 1.5;
   }
 }
 
 
-h2, h3, h4, h5, h6 {
+h2, h3, h4, h5{
   margin-top: 40px; /* 设置上方的空白为 20 像素 */
 }
 
@@ -39,10 +39,20 @@ h3::after {
   border-top:1px solid #f2f3f3
 }
 
-h1 img, h2 img, h3 img, h4 img, h5 img, h6 img {
+h1 img, h2 img, h3 img, h4 img{
   height: 1.5em; /* 使图片高度与当前字体大小相同 */
   vertical-align: middle; /* 垂直居中对齐 */
 }
+h6{
+  margin-top: 0px;
+  text-align:  center;
+}
+h6 img{
+  width: 40%;
+  height: auto;
+  vertical-align: middle;
+}
+
 
 /* header and footer areas */
 .menu { padding: 0; }
@@ -93,3 +103,19 @@ table {
 table thead th { border-bottom: 1px solid #ddd; }
 th, td { padding: 5px; }
 thead, tfoot, tr:nth-child(even) { background: #eee; }
+
+
+.pics_in_a_row {
+  margin: 25px 0;
+  display: flex;
+}
+
+.pics_in_a_row > div:not(:last-child) {
+  margin-right: 2%;
+}
+
+div img {
+  width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
