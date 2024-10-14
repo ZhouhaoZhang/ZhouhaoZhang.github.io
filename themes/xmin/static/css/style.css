@@ -1,33 +1,39 @@
-/*body {
-  max-width: 75%;
-  margin: auto;
-  padding: 1em;
-  line-height: 1.5;
-}*/
+html, body {
+  width: 1080px;       /* 强制页面宽度为 1024px */
+  overflow-x: scroll;  /* 出现水平滚动条 */
+}
 
-
-/* 针对桌面端 */
-@media (min-aspect-ratio: 4/3) {
-  body {
-    max-width: 75%;
+body {
     margin: 0 auto; /* 保证页面内容居中 */
     padding: 1em;
   line-height: 1.5;
   color: #414548; /* 设置默认的字体颜色 */
-  }
+  overflow-x: scroll;
 }
 
-/* 针对移动端 */
+
+/*
+@media (min-aspect-ratio: 4/3) {
+  body {
+    max-width: 75%;
+    margin: 0 auto; 
+    padding: 1em;
+  line-height: 1.5;
+  color: #414548;
+  }
+}
+*/
+/* 
 @media (max-aspect-ratio: 4/3) {
   body {
     max-width: 100%;
     padding: 0 auto;
     padding: 1em;
     line-height: 1.5;
-    color: #414548; /* 设置默认的字体颜色 */
+    color: #414548; 
   }
 }
-
+*/
 .red{
   color: #bd0000;
 }
