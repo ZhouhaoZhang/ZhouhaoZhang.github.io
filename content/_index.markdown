@@ -243,7 +243,7 @@ The above two are medical image segmentation experiments I conducted. I reproduc
 * [EEG-based Motor Imagery Classification](./in-class%20experiments/EEG-based%20Motor%20Imagery%20Classification/README.md): Inferring motor imagery through EEG signals has always been a challenge. I read the paper on EEGnet and implemented it using PyTorch, following its network structure. During the experiment, I gained a deep understanding of the significance of group convolution, depth-wise convolution, and point-wise convolution. In the end, my experimental results ranked at the top of the class for both binary and four-class classification tasks.
     
     <div class="row">
-      <img src="images/eeg1.png"/>
+      <img src="images/eeg1.jpg"/>
       <img src="images/eeg2.png"/>
     </div>
 
