@@ -7,8 +7,8 @@ title: Home
 # Zhouhao Zhang
 
 ## 👋 About Me
-My name is Zhouhao Zhang, I'm currently a research intern at Zhipu AI X-lab, guided by Dr. Tong Yang. We are focusing on embodied-AI research.
-Before that, I got my Bachelor's degree in Automation at Beihang University. During which, I got the highest scholarship of undergraduate student in China, the National Scholarship, and the third place in China University Robot Competition(ROBOCON).
+My name is Zhouhao Zhang, I'm currently a research intern at [Zhipu AI](https://www.zhipuai.cn/en/) X-lab, guided by [Dr. Tong Yang](https://scholar.google.com/citations?user=gxdjxrwAAAAJ&hl=en&oi=ao). We are focusing on embodied-AI research.
+Before that, I got my Bachelor's degree in Automation at [Beihang University](https://ev.buaa.edu.cn). During which, I got the highest scholarship of undergraduate student in China, the National Scholarship, and the third place in China University Robot Competition(ROBOCON).
 
 This webpage showcases a selection of projects I undertook before. Most of them were completed independently, driven by my own curiosity and enthusiasm. They span a wide range of subjects, including 3D computer vision, traditional image processing, deep learning, intelligent algorithms,robotics and SLAM.
 
@@ -16,8 +16,8 @@ These experiences have significantly enriched my academic journey and helped me 
 
 ## 🏅 My Awards
 *Click on the title to view the certificate*
-* **<a href="./CV.pdf" style="text-decoration:none; color:inherit;">National Scholarship</a>** | <span style="color:blue;">Top 3 out of 236</span>, The Ministry of Education of the People's Republic of China, Dec 2022
-* **First Prize, 23rd China University Robot Competition (ROBOCON)** ｜ <span style="color:blue;">National Third Place</span>, Jul 2024
+* **<a href="./CV.pdf" style="text-decoration:none; color:inherit;">National Scholarship</a>** | <span class="red">Top 3 out of 236</span>, The Ministry of Education of the People's Republic of China, Dec 2022
+* **First Prize, 23rd China University Robot Competition (ROBOCON)** ｜ <span class="red">National Third Place</span>, Jul 2024
 * **Second Prize, 23rd China University Robot Competition (RoboMaster)**, Apr 2024
 * **Second Prize, 22nd China University Robot Competition (ROBOCON)**, Jul 2023
 * **First Prize, 2022 Five Provinces of North China University Robot Competition**, Nov 2022
@@ -25,12 +25,12 @@ These experiences have significantly enriched my academic journey and helped me 
 * **Second Prize, China Intelligent Robot Fighting and Gaming Competition**, Mar 2023
 * **Third Prize, 38th National College Physics Competition**, Dec 2021
 * **Outstanding Graduate Award** | Beihang University, Jun 2024
-* **CATIC Scholarship** | <span style="color:blue;">Total 10 Places in Beihang University</span>, Dec 2023
+* **CATIC Scholarship** | <span class="red">Total 10 Places in Beihang University</span>, Dec 2023
 * **First Prize, Scholarship in Discipline Competition** | Beihang University, Nov 2023
 * **Second Prize, Scholarship in Outstanding Social Work** | Beihang University, Nov 2023
 * **Outstanding Student Leader** | Beihang University, Nov 2023
-* **Top Prize, Learning Excellence Scholarship** | <span style="color:blue;">Top 3 out of 154</span>, Beihang University, Dec 2022
-* **Outstanding Student** | <span style="color:blue;">Top 2 out of 154</span>, Beihang University, Sep 2022
+* **Top Prize, Learning Excellence Scholarship** | <span class="red">Top 3 out of 154</span>, Beihang University, Dec 2022
+* **Outstanding Student** | <span class="red">Top 2 out of 154</span>, Beihang University, Sep 2022
 * **Third Prize, 32nd FengRu Cup Competition & Yuyuan Robots Competition** | Beihang University, Jun 2022
 
 ## 🧑🏻‍💻 Internship
@@ -87,10 +87,9 @@ Skyforce Technology <img src="./images/skyforce_logo.png" alt="Skyforce">
 >**Praise from the project manager:**
 You have refreshed my attitude towards the post-00s.
 Introduce me to more students with good character like you, Zhang. I'll gather you all together as a team, you'll be the head.
-    
-<h6>
-  <img src="./images/p.jpg" width=20%/>
-</h6>
+    <h6>
+      <img src="./images/p.jpg"/>
+    </h6>
 
 ## 🛠️ Projects
 
@@ -99,10 +98,10 @@ Introduce me to more students with good character like you, Zhang. I'll gather y
 </h3>
 
 <div align="center">
-    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=358108413&bvid=BV1mX4y1Y7Pd&cid=1187445702&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 700px; aspect-ratio: 16 / 9;"></iframe>
-    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1302854537&bvid=BV1zM4m197an&cid=1495784623&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 700px; aspect-ratio: 16 / 9;"></iframe>
-    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=112899104180386&bvid=BV1Kav9e5EfW&cid=500001637420342&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 700px; aspect-ratio: 16 / 9;"></iframe>
-    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1006197069&bvid=BV1qx4y1x7nz&cid=1612987246&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 700px; aspect-ratio: 16 / 9;"></iframe>
+    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=358108413&bvid=BV1mX4y1Y7Pd&cid=1187445702&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 45%; aspect-ratio: 16 / 9;"></iframe>
+    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1302854537&bvid=BV1zM4m197an&cid=1495784623&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 45%; aspect-ratio: 16 / 9;"></iframe>
+    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=112899104180386&bvid=BV1Kav9e5EfW&cid=500001637420342&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 45%; aspect-ratio: 16 / 9;"></iframe>
+    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1006197069&bvid=BV1qx4y1x7nz&cid=1612987246&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 45%; aspect-ratio: 16 / 9;"></iframe>
 </div>
 
 * [Auto-shoot Algorithm Based on Deep Learning for Racing Robot in CURC ROBOCON 2023](./robotics%20team%20of%20BUAA/ROBOCON2023/): Information for target identification and encoding is obtained through the fusion of data from laser radar, wheel odometry, and an Inertial Measurement Unit (IMU) serving as a priori localization. Target identification relies on a well-trained deep learning model with data augmentation. With the integration of localization data, precise angular deviations are computed. These deviations are subsequently sent to the motor driver chip, allowing for precise and automated shooting. Our robot's exceptional performance at the 2023 CURC ROBOCON competition served as a validation of the algorithm's precision and robustness.
@@ -137,7 +136,7 @@ Introduce me to more students with good character like you, Zhang. I'll gather y
 * [Decision-making algorithm for autonomous robots for ROBOCON 2024](./robotics%20team%20of%20BUAA/ROBOCON2024/): The topic for ROBOCON2024 requires autonomous robots to achieve a significant victory in Zone 3. The victory condition is to occupy three granaries. Occupying a granary is achieved when at least two of your team's balls are present in the granary, with your team's ball at the top. This places a high demand on the autonomous decision-making algorithm for robots. To address this, I have designed an algorithm based on the minimax search with alpha-beta pruning, incorporating a simulation interface. What sets this algorithm apart from traditional turn-based game tree approaches is that it allows the robot to choose to skip its own turn and wait for the opponent to act. This approach is more in line with the context of this competition and will give our autonomous robots greater flexibility.
 
   <div class='pics_in_a_row'>
-    <div style="flex:1.848592;">
+    <div style="flex:1.261580;">
       <img src='./images/RC2024_field.jpg'>
     </div>
     <div style="flex:1.524390;">
@@ -191,9 +190,9 @@ Introduce me to more students with good character like you, Zhang. I'll gather y
   Soft Robotics Lab  <img src="./images/buaalogo.png" alt="nus"  > 
 </h3>
 <div align="center">
-  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=619741574&bvid=BV1g84y1d7YH&cid=1301361611&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 440px; aspect-ratio: 16 / 9;"></iframe>
-  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=865438757&bvid=BV1a54y1u77Y&cid=1035540328&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 440px; aspect-ratio: 16 / 9;"></iframe>
-  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=733647812&bvid=BV1hD4y1a78V&cid=921457829&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 440px; aspect-ratio: 16 / 9;"></iframe>
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=619741574&bvid=BV1g84y1d7YH&cid=1301361611&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 33%; aspect-ratio: 16 / 9;"></iframe>
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=865438757&bvid=BV1a54y1u77Y&cid=1035540328&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 33%; aspect-ratio: 16 / 9;"></iframe>
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=733647812&bvid=BV1hD4y1a78V&cid=921457829&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 33%; aspect-ratio: 16 / 9;"></iframe>
 </div>
 
 * [An Aerial–Aquatic Hitchhiking Robot with Remora-Inspired Tactile Sensors and Thrust Vectoring Units](https://onlinelibrary.wiley.com/doi/10.1002/aisy.202300381): My primary responsibilities include debugging flight control systems, providing assistance with various experiments, and working on the deployment of SLAM (Simultaneous Localization and Mapping) and automatic navigation algorithms for the next generation of robots. Our work is published in Advanced Intelligent Systems.
@@ -351,15 +350,15 @@ The above two are medical image segmentation experiments I conducted. I reproduc
   </div>
 
 * [Robot path planning experiments](./in-class%20experiments/Robot%20path%20planning%20experiments/README.md) I explored the differences in various heuristic functions in robot path planning tasks and summarized my findings in an experimental report. The visual process of the experiment has been uploaded to Bilibili.
+  <div align="center">
+    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=953162139&bvid=BV1Us4y1g7rq&cid=1116087360&p=1" scrolling="no" frameborder="no" width=440 style="width: 45%; aspect-ratio: 16 / 9;"></iframe>
+  </div>
 
-    <div align="center">
-      <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=953162139&bvid=BV1Us4y1g7rq&cid=1116087360&p=1" scrolling="no" frameborder="no" width=440 height=440”></iframe>
-    </div>
 
 * [Recognition of handwritten Arabic characters](./in-class%20experiments/Recognition%20of%20handwritten%20Arabic%20characters/README.md)
 
     <h6>
-      <img src="images/arb.jpg" width=40% />
+      <img src="images/arb.jpg"/>
     </h6>
 
 
@@ -367,7 +366,7 @@ The above two are medical image segmentation experiments I conducted. I reproduc
 * [GMM Built by EM Algorithm](./in-class%20experiments/GMM%20Built%20by%20EM%20Algorithm/)
 
     <h6>
-      <img src="./images/gmm.jpg" width=40% />
+      <img src="./images/gmm.jpg"/>
     </h6>
 
 ## 🎞️ Gallery

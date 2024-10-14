@@ -5,6 +5,7 @@
   line-height: 1.5;
 }*/
 
+
 /* 针对桌面端 */
 @media (min-aspect-ratio: 4/3) {
   body {
@@ -12,6 +13,7 @@
     margin: 0 auto; /* 保证页面内容居中 */
     padding: 1em;
   line-height: 1.5;
+  color: #414548; /* 设置默认的字体颜色 */
   }
 }
 
@@ -22,9 +24,17 @@
     padding: 0 auto;
     padding: 1em;
     line-height: 1.5;
+    color: #414548; /* 设置默认的字体颜色 */
   }
 }
 
+.red{
+  color: #bd0000;
+}
+
+a{
+  color: #1b63bb;
+}
 
 h2, h3, h4, h5{
   margin-top: 40px; /* 设置上方的空白为 20 像素 */
@@ -47,10 +57,12 @@ h6{
   margin-top: 0px;
   text-align:  center;
 }
-h6 img{
-  width: 40%;
-  height: auto;
-  vertical-align: middle;
+h6 img {
+                /* 默认宽度为40% */
+  height: auto;              /* 高度自适应宽度 */
+  vertical-align: middle;    /* 图片垂直居中 */
+  max-width: 50%;            /* 最大宽度不超过50% */
+  max-height: 200px;         /* 最大高度不超过200像素 */
 }
 
 
@@ -106,12 +118,12 @@ thead, tfoot, tr:nth-child(even) { background: #eee; }
 
 
 .pics_in_a_row {
-  margin: 25px 0;
+  margin: 5px 0;
   display: flex;
 }
 
 .pics_in_a_row > div:not(:last-child) {
-  margin-right: 2%;
+  margin-right: 5px;
 }
 
 div img {

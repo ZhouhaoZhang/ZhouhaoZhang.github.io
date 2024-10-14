@@ -28,7 +28,7 @@ menu:
     # - name: Subscribe
     #   url: "index.xml"
     - name: CV
-      url: "./cv.pdf"
+      url: "./pdfs/CV.pdf"
 
 params:
   description: "Zhouhao Zhang's personal webpage"
