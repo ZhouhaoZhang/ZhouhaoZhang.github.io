@@ -19,7 +19,7 @@
 @media (max-aspect-ratio: 4/3) {
   body {
     max-width: 100%;
-    padding: 0 10px; /* 给页面左右留出一点内边距 */
+    padding: 0 auto;
     padding: 1em;
   line-height: 1.5;
   }
