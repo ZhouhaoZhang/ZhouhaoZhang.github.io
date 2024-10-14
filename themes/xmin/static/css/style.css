@@ -1,0 +1,80 @@
+body {
+  max-width: 75%;
+  margin: auto;
+  padding: 1em;
+  line-height: 1.5;
+}
+
+@media screen and (max-aspect-ratio: 1/1) {
+  body {
+    width: 100%; /* 在移动设备上占据 100% 宽度 */
+  }
+}
+
+h2, h3, h4, h5, h6 {
+  margin-top: 40px; /* 设置上方的空白为 20 像素 */
+}
+
+h2::after,
+h3::after {
+  content: "";
+  display: block;
+  margin: 0.5em 0;
+  border: 0;
+  border-top:1px solid #f2f3f3
+}
+
+h1 img, h2 img, h3 img, h4 img, h5 img, h6 img {
+  height: 1.5em; /* 使图片高度与当前字体大小相同 */
+  vertical-align: middle; /* 垂直居中对齐 */
+}
+
+/* header and footer areas */
+.menu { padding: 0; }
+.menu li { display: inline-block; }
+.article-meta, .menu a {
+  text-decoration: none;
+  background: #eee;
+  padding: 5px;
+  border-radius: 5px;
+}
+.menu, .article-meta, footer { text-align: center; }
+.title { font-size: 1.1em; }
+footer a { text-decoration: none; }
+/*hr {
+  border-style: dashed;
+  color: #ddd;
+}*/
+hr {
+  display: block;
+  margin: 1em 0;
+  border: 0;
+  border-top:1px solid #f2f3f3
+}
+/* code */
+pre {
+  border: 1px solid #ddd;
+  box-shadow: 5px 5px 5px #eee;
+  padding: 1em;
+  overflow-x: auto;
+}
+code { background: #f9f9f9; }
+pre code { background: none; }
+
+/* misc elements */
+/*img, iframe, video { max-width: 100%; }*/
+main { hyphens: auto; }
+blockquote {
+  background: #f9f9f9;
+  border-left: 5px solid #ccc;
+  padding: 3px 1em 3px;
+}
+
+table {
+  margin: auto;
+  border-top: 1px solid #666;
+  border-bottom: 1px solid #666;
+}
+table thead th { border-bottom: 1px solid #ddd; }
+th, td { padding: 5px; }
+thead, tfoot, tr:nth-child(even) { background: #eee; }
