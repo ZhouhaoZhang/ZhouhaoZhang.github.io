@@ -1,9 +1,30 @@
-body {
+/*body {
   max-width: 75%;
   margin: auto;
   padding: 1em;
   line-height: 1.5;
+}*/
+
+/* 针对桌面端 */
+@media (min-aspect-ratio: 4/3) {
+  body {
+    max-width: 75%;
+    margin: 0 auto; /* 保证页面内容居中 */
+    padding: 1em;
+  line-height: 1.5;
+  }
 }
+
+/* 针对移动端 */
+@media (max-aspect-ratio: 4/3) {
+  body {
+    max-width: 100%;
+    padding: 0 10px; /* 给页面左右留出一点内边距 */
+    padding: 1em;
+  line-height: 1.5;
+  }
+}
+
 
 h2, h3, h4, h5, h6 {
   margin-top: 40px; /* 设置上方的空白为 20 像素 */
