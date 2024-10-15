@@ -1,7 +1,8 @@
 ---
 title: Home 
 ---
-<meta name="viewport" content="width=2160px"> <!-- 设置固定宽度为1024px或你希望的桌面宽度 -->
+<!--meta name="viewport" content="width=2160px"--> 
+<!-- 设置固定宽度为1024px或你希望的桌面宽度 -->
 
 [<img src="./images/photo.jpg" style="max-width:15%;min-width:40px;float:right;"/>](https://zhouhaozhang.github.io)
 
