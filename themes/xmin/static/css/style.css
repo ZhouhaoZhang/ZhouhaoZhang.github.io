@@ -60,7 +60,7 @@ h6 img {
 
 /* header and footer areas */
 .menu { padding: 0; }
-.menu li { display: inline-block; }
+.menu li { display: inline-block; margin-right: 5px;  /* 添加右侧的5px间距 */}
 .article-meta, .menu a {
   text-decoration: none;
   background: #eee;
