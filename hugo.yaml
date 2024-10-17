@@ -29,6 +29,10 @@ menu:
     #   url: "index.xml"
     - name: CV
       url: "./pdfs/CV.pdf"
+      weight: 2
+    - name: Contact Me
+      url: "mailto:zhouhaozhang@buaa.edu.cn"
+      weight: 3
 
 params:
   description: "Zhouhao Zhang's personal webpage"

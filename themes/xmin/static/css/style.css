@@ -28,11 +28,11 @@ a{
   color: #1b63bb;
 }
 
-h2, h3, h4, h5{
+h2, h3{
   margin-top: 40px; /* 设置上方的空白为 20 像素 */
 }
 
-h2::after,
+h2::after ,
 h3::after {
   content: "";
   display: block;
@@ -115,6 +115,22 @@ thead, tfoot, tr:nth-child(even) { background: #eee; }
 }
 
 .pics_in_a_row > div:not(:last-child) {
+  margin-right: 5px;
+}
+
+.pics_in_a_row_small {
+  margin: 5px auto;
+  display: flex;
+  width: 50%;
+  text-align: center;
+  justify-content: center;  /* 水平居中 */
+}
+
+.pics_in_a_row_small div {
+  display: inline-block;
+}
+
+.pics_in_a_row_small > div:not(:last-child) {
   margin-right: 5px;
 }
 
