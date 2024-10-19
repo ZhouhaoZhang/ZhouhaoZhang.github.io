@@ -163,7 +163,7 @@ I was a member of the BR Robotics Team for two years, representing Beihang Unive
       <img src='./images/trainning.jpg'>
     </div>
     <div style="flex:1.503012;">
-      <img src='./images/RM2.JPG'>
+      <img src='./images/RM2.jpg'>
     </div>
     <div style="flex:1.777778;">
       <img src='./images/rmv.gif'>
