@@ -21,8 +21,8 @@ Prior to this, I got my Bachelor's degree in Automation from [Beihang University
 * **Programming Languages**: Python, C, C++
 * **Robot Development Environments**: Linux, ROS, ROS2, Gazebo, PyBullet, MATLAB, SolidWorks
 * **Development Libraries**: Pytorch, OpenCV, OpenAI Gym, PCL, Eigen
-* **Robot Hardware**: Diﬀerential/Omni-directional/Quadruped Chassis, Robotic Arms, LiDAR, Depth Camera, IMU, TOF
-* **Embedded Systems**: NVIDIA Jetson, Raspberry Pi, STM32, ESP32, Arduino
+* **Robot Hardware**: LiDAR, Depth Camera, IMU, TOF
+* **Embedded Systems**: NVIDIA Jetson, Raspberry Pi
 
 ## 🏅 My Awards
 * **National Scholarship** | <span class="red">Top 3 out of 236</span>, The Ministry of Education of the People's Republic of China<div style="float: right;">Dec 2022</div>
@@ -49,7 +49,7 @@ Prior to this, I got my Bachelor's degree in Automation from [Beihang University
   <img src="./images/zhipu_logo.png" alt="Zhipu AI">
 </h3>
 
-I am conducting research in embodied AI, specifically mobile robots and their scenario understanding.
+I am conducting research in embodied AI, specifically mobile robots and their scene understanding.
 
 
 <h3>
